@@ -2,15 +2,7 @@
 ## Tech stack:-
 Html , CSS, JS
 <hr>
-<h4>Game Preview</h4>
-<img src="files/images/win.gif">
-<img src="files/images/loose.gif">
-<hr>
-<h5>Final Work</h5>
 <img width="600px" src="files/images/preview.png">
-<hr>
-<h5>Inspiration</h5>
-<img width="400px" src="files/images/inspiration.jpg">
 <hr>
 <h3>Details : </h3>
 <p> Its a Game called Start Reactor made with javscript and jquery 
@@ -29,3 +21,8 @@ If the player enters a pattern incorrectly, the blue squares will flash red and 
 Green circles above the screen on the left indicate how many patterns have been successfully replicated. The green circles above the keypad on the right indicate the number of squares the player has currently selected for the pattern so far.
 
 Go Play and Enjoy!!</p>
+
+
+<hr>
+<img src="files/images/win.gif">
+<img src="files/images/loose.gif">

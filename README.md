@@ -6,7 +6,7 @@ Html , CSS, JS
 <hr>
 <h3>Details : </h3>
 <p> Its a Game called Start Reactor made with javscript and jquery 
-
+demo :- https://64d169b1df84a5009ebbd017--graceful-genie-0a5706.netlify.app/
 ~Just tap on the keys  as shown in the left side of the reactor to win the game.
 ~When the player opens the task, a black screen will appear on the left while nine squares appear on the right. 
 ~The player must memorize the order blue squares appear on the left screen and then replicate it using the keypad on the right.
